@@ -1,11 +1,13 @@
+Hi! I'm Adrien,
+
   I am a lecturer at the University of Southampton, working at the intersection of bayesian methods, spatial statistics, small-area estimation, survey methodology, and official statistics.
 
-  Most of my applied work focuses on hiv/aids epidemiology and immunisation coverage in sub-saharan africa, in collaboration with the world health organization, unaids, gavi, the world bank, and ministries of
+  Most of my applied work focuses on HIV/AIDS epidemiology and immunisation coverage in Africa, in collaboration with the World Health Organization, UNAIDS, Gavi, the World Bank, and ministries of
    health.
 
-  you can learn more about me at my [website](https://adrien-allorant.netlify.app/).
+  You can learn more about me at my [website](https://adrien-allorant.netlify.app/).
 
-  a few of my repositories:
+   A few of my repositories:
   
   | Repository | Description |
   |:-----------|:------------|
@@ -13,6 +15,6 @@
   2023](https://doi.org/10.1038/s41467-023-40234-9)) |
   | [`district-and-demographic-trends-hiv`](https://github.com/aallorant/district-and-demographic-trends-hiv) | socio-demographic and geographic disparities in hiv prevalence, testing, and treatment across 33
    african countries, 108 surveys ([JIAS, 2025](https://doi.org/10.1002/jia2.70024)) |
-  | [`math241`](https://github.com/aallorant/math241) | course materials for math 241 (data science) at reed college |
-  | [`beam`](https://github.com/aallorant/beam) | workshop site for *statistics and the arts* at BEAM |
-  | [`personal-site`](https://github.com/aallorant/personal-site) | source for my academic site (hugo + hugo-apéro) |
+  | [`math241`](https://github.com/aallorant/math241) | course materials for math 241 (data science) at Reed College |
+  | [`beam`](https://github.com/aallorant/beam) | Workshop site for *statistics and the arts* at BEAM |
+  | [`personal-site`](https://github.com/aallorant/personal-site) | Source for my academic site (hugo + hugo-apéro) |
