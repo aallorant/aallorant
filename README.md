@@ -1,6 +1,6 @@
 Hi! I'm Adrien,
 
-  I am a lecturer at the University of Southampton, working at the intersection of bayesian methods, spatial statistics, small-area estimation, survey methodology, and official statistics.
+  I am a lecturer in social statistics and global health at the University of Southampton, working at the intersection of bayesian methods, spatial statistics, small-area estimation, survey methodology, and official statistics.
 
   Most of my applied work focuses on HIV/AIDS epidemiology and immunisation coverage in Africa, in collaboration with the World Health Organization, UNAIDS, Gavi, the World Bank, and ministries of
    health.
